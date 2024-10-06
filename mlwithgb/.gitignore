@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-material_vis_dnn/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
@@ -10,12 +10,6 @@ material_vis_dnn/node_modules
 
 # production
 /build
-
-# data
-material_vis_dnn/src/backend/data
-material_vis_dnn/src/backend/data_to_img
-material_vis_dnn/src/backend/data_to_img_mnist
-material_vis_dnn/src/backend/data_to_img_cifar10
 
 # misc
 .DS_Store
