@@ -25,12 +25,18 @@ MLwithGB(Machine Learning with GraphicsBoard)はディープラーニングをGU
 前提としてNode.jsをインストールしておく必要があります。
 
 1. このレポジトリを手元のローカル環境にクローンします。
-   > git clone https://github.com/y929Komi/MLwithGB.git
+   ```
+   git clone https://github.com/y929Komi/MLwithGB.git
+   ```
 
 2. 必要なライブラリなどをインストールします。
-   > pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt
+   ```
    
-   > npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+   ```
+   npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+   ```
 
 3. `mlwithgb`ディレクトリに移動します。
    
