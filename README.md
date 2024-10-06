@@ -29,6 +29,7 @@ MLwithGB(Machine Learning with GraphicsBoard)はディープラーニングをGU
 
 2. 必要なライブラリなどをインストールします。
    > pip install -r requirements.txt
+   
    > npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
 
 3. `mlwithgb`ディレクトリに移動します。
