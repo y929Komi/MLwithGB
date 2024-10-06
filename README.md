@@ -45,9 +45,14 @@ MLwithGB(Machine Learning with GraphicsBoard)はディープラーニングをGU
 5. `npm start`を実行します。
    
 6. 以下のコマンドを実行します。
-   > cd src/backend
-   
-   > python server.py
+
+   ```
+   cd src/backend
+   ```
+
+   ```
+   python server.py
+   ```
 
 ## チュートリアル
 
